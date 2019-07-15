@@ -1,3 +1,5 @@
 Chocolate
 Hot Water
 Coffee
+milk
+sugar
